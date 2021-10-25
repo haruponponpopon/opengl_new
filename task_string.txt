@@ -1,0 +1,14 @@
+communication
+signal
+system
+function
+engineering
+opencv
+opengl
+technology
+zoo
+apple
+banana
+peach
+fish
+meat

@@ -1,0 +1,5 @@
+haru 2800
+haru2 2150
+natsu 1400
+aki 1300
+fuyu 1000
